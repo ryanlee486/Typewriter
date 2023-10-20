@@ -1,2 +1,2 @@
 # Typewriter
-A rhythm game
+Rhythm game in Develpment.
